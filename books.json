@@ -1,0 +1,45 @@
+[
+    {
+      "title": "Alchemist",
+      "author": "Paulo Coelho",
+      "price": 19.99,
+      "image": "assets/images/alc.jpg"
+    },
+    {
+      "title": "Kidnapped",
+      "author": "R. L. Stevenson",
+      "price": 19.99,
+      "image": "assets/images/kidnapped.jpg"
+    },
+    {
+      "title": "Fahrenheit 451",
+      "author": "Ray Bradbury",
+      "price": 19.99,
+      "image": "assets/images/fah.jpg"
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "price": 19.99,
+      "image": "assets/images/arrival_5.jpg"
+    },
+    {
+      "title": "Looking for Alaska",
+      "author": "John Green",
+      "price": 19.99,
+      "image": "assets/images/alaska.jpg"
+    },
+    {
+      "title": "Turtles All the Way",
+      "author": "John Green",
+      "price": 19.99,
+      "image": "assets/images/turtles.jpg"
+    },
+    {
+        "title": "Warrior of the Light",
+        "author": "Paulo Coelho",
+        "price": 19.99,
+        "image": "assets/images/light2.jpg"
+      }
+  ]
+  
